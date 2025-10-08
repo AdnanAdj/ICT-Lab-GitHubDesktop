@@ -7,3 +7,7 @@ Name: Eesa Khan
 Roll No: 01-135252-020
 
 -- Add your details below this line (dont remove, only add/append) --
+
+
+Name: Uzair Azam
+Roll NO: 01-135252-082
