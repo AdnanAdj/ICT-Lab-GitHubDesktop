@@ -24,8 +24,8 @@ https://github.com/AdnanAdj/ICT-Lab-GitHubDesktop
 ### 2️⃣ Edit the Students List
 1. In the cloned folder, open the file **students-list.txt**.
 2. Add your details in this format:
-Name: Your Full Name
-Roll No: YourRollNumber
+Name: fatima noor
+Roll No: 01-135252-023
 3. Save the file.
 
 ---
