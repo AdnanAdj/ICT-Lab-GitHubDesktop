@@ -1,9 +1,12 @@
 # ICT Lab GitHub Desktop – Student List
 
 
+Name: Eesa khan
  Name: Riyan Maryam
 Roll No: 01-135252-066
 Name: Eesa Khan
 Roll No: 01-135252-020
 
 -- Add your details below this line (dont remove, only add/append) --
+Name: Abeea Ahmed
+Roll No:  01-135252-008
