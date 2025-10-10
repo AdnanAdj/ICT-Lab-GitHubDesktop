@@ -7,3 +7,9 @@ Name: Eesa Khan
 Roll No: 01-135252-020
 
 -- Add your details below this line (dont remove, only add/append) --
+<<<<<<< Updated upstream
+=======
+
+Name: Muhammad Ibrahim Anwar 
+Roll No: 01-135252-051
+>>>>>>> Stashed changes
