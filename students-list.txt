@@ -10,3 +10,6 @@ Roll No: 01-135252-020
 
 Name: Muhammad Awais Malik
 Roll No: 01-135252-047
+
+Name: Wasi Ahmed
+Roll No: 01-135252-083
