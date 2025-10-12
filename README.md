@@ -1,65 +1,87 @@
-# ICT Lab – GitHub Desktop Exercise
+# 💻 ICT Lab – GitHub Desktop Exercise
 
-Welcome to the GitHub Desktop Practice Repository! 👋  
+<p align="center">
+  <img src="https://img.shields.io/github/stars/AdnanAdj/ICT-Lab-GitHubDesktop?style=flat-square" alt="Stars Badge"/>
+  <img src="https://img.shields.io/github/forks/AdnanAdj/ICT-Lab-GitHubDesktop?style=flat-square" alt="Forks Badge"/>
+  <img src="https://img.shields.io/github/issues/AdnanAdj/ICT-Lab-GitHubDesktop?style=flat-square" alt="Issues Badge"/>
+  <img src="https://img.shields.io/github/license/AdnanAdj/ICT-Lab-GitHubDesktop?style=flat-square" alt="License Badge"/>
+</p>
+
+Welcome to the **GitHub Desktop Practice Repository!** 👋  
 This repository is part of your **Introduction to ICT (BSIT 1st Semester)** lab.
 
 ---
 
 ## 🧭 Objective
-To practice cloning, editing, committing, and pushing changes using **GitHub Desktop**.
+To practice **cloning, editing, committing, and pushing changes** using **GitHub Desktop**.
+
+> _Goal:_ Learn the **basic version control workflow** using a real-world GitHub repository.
 
 ---
 
 ## 🧪 Steps for Students
 
-### 1️⃣ Clone the Repository
-1. Open **GitHub Desktop**.
-2. Go to **File → Clone Repository → URL tab**.
+### 🪄 Step 1 – Clone the Repository
+1. Open **GitHub Desktop**.  
+2. Go to **File → Clone Repository → URL tab**.  
 3. Paste this repository link:  
-https://github.com/AdnanAdj/ICT-Lab-GitHubDesktop
+   👉 [https://github.com/AdnanAdj/ICT-Lab-GitHubDesktop](https://github.com/AdnanAdj/ICT-Lab-GitHubDesktop)  
 4. Choose a local path and click **Clone**.
 
 ---
 
-### 2️⃣ Edit the Students List
-1. In the cloned folder, open the file **students-list.txt**.
+### ✏️ Step 2 – Edit the Students List
+1. In the cloned folder, open the file **students-list.txt**.  
 2. Add your details in this format:
-Name: Your Full Name
-Roll No: YourRollNumber
+   ```
+   Name: Your Full Name
+   Roll No: YourRollNumber
+   ```
 3. Save the file.
 
 ---
 
-### 3️⃣ Commit Your Changes
-1. Return to **GitHub Desktop**.
-2. You’ll see your file change listed.
-3. In the **Summary** box, type a message like: "Added my name to students list"
+### 💾 Step 3 – Commit Your Changes
+1. Return to **GitHub Desktop**.  
+2. You’ll see your file change listed.  
+3. In the **Summary** box, type a message like:  
+   `"Added my name to students list"`  
 4. Click **Commit to main**.
 
 ---
 
-### 4️⃣ Push Your Work to GitHub
-1. Click **Push origin** (top-right).
-2. Open your GitHub account and verify your name now appears in the repository.
+### 🚀 Step 4 – Push Your Work to GitHub
+1. Click **Push origin** (top-right).  
+2. Visit your repository on GitHub and confirm your name appears in **students-list.txt**.
 
 ---
 
 ## ✅ Submission
-- Take a screenshot of your GitHub Desktop after committing.
-- Copy your **repository link** (your fork or cloned version).
-- Submit both as part of your lab report.
+- Take a **screenshot** of GitHub Desktop after committing.  
+- Copy your **repository link** (your fork or clone).  
+- Submit both in your **lab report** or LMS.
 
 ---
 
-## 💡 Tip
-If you see an error like *“Permission denied”* when pushing, it means you don’t have write access.  
-In that case:
-- **Fork** this repository,  
-- Make your changes in your fork,  
-- And share the fork link with your instructor.
+## ⚙️ Troubleshooting
+If you see an error like:
+> “Permission denied” or “You don’t have write access”
+
+Then:
+1. **Fork** this repository (top-right corner of GitHub).  
+2. Make changes in your fork.  
+3. Push and share **your fork’s link** with the instructor.
 
 ---
 
-**Instructor:** Adnan Jelani  
+## 🧑‍🏫 Instructor
+**Name:** Adnan Jelani  
 **Course:** Introduction to ICT  
 **Semester:** Fall 2025  
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250px" alt="Coding GIF"/><br>
+  <b>Made with ❤️ for BSIT Students</b>
+</p>
