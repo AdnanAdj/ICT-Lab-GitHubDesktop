@@ -21,6 +21,6 @@ Name: Sameen Altaf
 Roll No: 01-135252-104
 
 =======
-Name: Abeea Ahmed
+Name: Abeera Ahmed
 Roll No:  01-135252-008
 >>>>>>> 1becef27b57870cafa92c776d9e82cb6c0fe311d
