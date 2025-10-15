@@ -2,9 +2,13 @@
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Name: Sameen Altaf
 Roll No: 01-135252-104
 =======
+=======
+Name: Eesa khan
+>>>>>>> 1becef27b57870cafa92c776d9e82cb6c0fe311d
  Name: Riyan Maryam
 Roll No: 01-135252-066
 Name: Eesa Khan
@@ -12,6 +16,11 @@ Roll No: 01-135252-020
 >>>>>>> 297751b21dc06617a5a2c194789cba91f6c66b43
 
 -- Add your details below this line (dont remove, only add/append) --
+<<<<<<< HEAD
 Name: Sameen Altaf
 Roll No: 01-135252-104
 
+=======
+Name: Abeea Ahmed
+Roll No:  01-135252-008
+>>>>>>> 1becef27b57870cafa92c776d9e82cb6c0fe311d
