@@ -1,8 +1,8 @@
 # ICT Lab GitHub Desktop – Student List
 
 
- Name: Riyan Maryam
-Roll No: 01-135252-066
+ Name: Babar Sultan
+Roll No: 01-135252-090
 Name: Eesa Khan
 Roll No: 01-135252-020
 
