@@ -10,3 +10,8 @@ Roll No: 01-135252-020
 
 Name: Muhammad Awais Malik
 Roll No: 01-135252-047
+
+
+-- Add your details below this line (dont remove, only add/append) --
+Name: Muhammad Abubakar
+Roll No: 01-135252-042
