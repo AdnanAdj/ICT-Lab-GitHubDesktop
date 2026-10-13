@@ -85,3 +85,8 @@ Then:
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250px" alt="Coding GIF"/><br>
   <b>Made with ❤️ for BSIT Students</b>
 </p>
+## Skills
+
+- Programming fundamentals
+- ICT concepts
+- Clickup
